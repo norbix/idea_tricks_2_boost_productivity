@@ -2,4 +2,4 @@
 Tips and tricks to Boos Productivity for Java Devs
 
 - [Course](https://www.udemy.com/course/intellij-idea-secrets-double-your-coding-speed-in-2-hours/learn/lecture/4934276#overview)
-- [File](file://IntelliJIDEA_ReferenceCard.pdf)
+- [File](./IntelliJIDEA_ReferenceCard.pdf)
